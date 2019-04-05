@@ -1,0 +1,4 @@
+#Fri Apr 05 10:50:01 CEST 2019
+base.0=/home/lucamtvt/Desktop/Flutter test/shopping_app_ui/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
